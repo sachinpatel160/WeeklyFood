@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389745744694",
+    "firebase_url": "https://weeklyfood-80374.firebaseio.com",
+    "project_id": "weeklyfood-80374",
+    "storage_bucket": "weeklyfood-80374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389745744694:android:4f3b42ad1ebb8344",
+        "android_client_info": {
+          "package_name": "com.designs.sachin.weeklyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389745744694-q0pktpfie8f1ba7fr9tmf6i6hj6bggun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.designs.sachin.weeklyfood",
+            "certificate_hash": "a2b6b3339b8cce4174a9ccb895cf4b4a5d555227"
+          }
+        },
+        {
+          "client_id": "389745744694-v14garell6ijuu1otufpf6ivt6eb0497.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6bT8Nl5ZeQbW4SW_wAbmZOiiGHlf4I8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389745744694-v14garell6ijuu1otufpf6ivt6eb0497.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
